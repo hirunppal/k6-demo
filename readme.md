@@ -53,4 +53,17 @@ API for learning purposes: https://test-api.k6.io/
 
 - [@JoanEsquivel](https://github.com/JoanEsquivel)
 
+# K6 Demo
+
+Project to understand & explain how K6 works step by step.
+
+## Summary
+
+<details>
+  <summary>Click to see the summary report</summary>
+  
+  <iframe src="summary.html" style="width:100%; height:500px;"></iframe>
+
+</details>
+
 
